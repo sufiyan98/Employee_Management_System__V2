@@ -41,11 +41,24 @@ Your project will run on port no below
 **Server:** Java, Spring MVC, Spring Boot, MySQL, Hibernate and Spring Framework
 
 
+## Here's how the homepage looks
+
+![Home Page](https://github.com/user-attachments/assets/dacd9c8e-bbc4-4237-af53-a615987043d6)
+
+## Demo of Application 
+### Admin Panel
+
+https://github.com/user-attachments/assets/714437fc-1494-4cb9-8cd6-040122c6198a
+
+
+ ### Employee Panel
+
+ 
+
+https://github.com/user-attachments/assets/06bb5f02-1941-41f8-a460-cb3e6aa2a90f
+
+
+
 ## Support
 
 For support, email me at sufiyan2514@gmail.com
-
-## Here's how the homepage looks
-[![Home-Page.png](https://i.postimg.cc/fLyzyDZB/Home-Page.png)](https://postimg.cc/MMk2rknQ)
-
-
