@@ -45,4 +45,7 @@ Your project will run on port no below
 
 For support, email me at sufiyan2514@gmail.com
 
+## Here's how the homepage looks
+[![Home-Page.png](https://i.postimg.cc/fLyzyDZB/Home-Page.png)](https://postimg.cc/MMk2rknQ)
+
 
